@@ -1,6 +1,7 @@
 # -Data-Driven-Insights-Atliq-Hardwares-Analysis
 
-**Project Title: Atliq Hardwares Data Analytics Project**
+**Project Title: Data-Driven Insights: Atliq Hardwares Analysis**
+
 
 **Description:**
 This project encompasses a comprehensive data analytics initiative undertaken by Atliq Hardwares, a leading computer hardware producer in India and other regions. The project's primary objective is to leverage data-driven insights to facilitate informed decision-making and strategic planning across various business operations.
